@@ -539,4 +539,4 @@ Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invali
     // Injection Failed
 ** Monkey aborted due to error.
 Events injected: 81035
-## Network stats: elapsed time=174575ms (0ms mobile, 0ms wifi, 174575ms not connected)
+Network stats: elapsed time=174575ms (0ms mobile, 0ms wifi, 174575ms not connected)
